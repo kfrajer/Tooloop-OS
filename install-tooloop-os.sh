@@ -273,4 +273,4 @@ echo "Enjoy ;-)"
 
 sleep 5
 
-reboot
+# reboot
